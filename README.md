@@ -1,7 +1,7 @@
 # Cybersecurity
 
 # Ciao, Cono Giuseppe
-<a href="[https://linkedin.com](https://www.linkedin.com/in/peppe-undefined-756690282/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/peppe-undefined-756690282"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
