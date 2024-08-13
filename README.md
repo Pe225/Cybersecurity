@@ -51,7 +51,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <a href="https://www.splunk.com/"><img src="[|300]https://www.splunk.com/content/dam/splunk-blogs/images/2016/07/IZs6mb60tEc0z534zMDoxOjBzMTu0hl.jpeg|300" /></a>
+    <a href="https://www.splunk.com/"><img src="https://www.splunk.com/content/dam/splunk-blogs/images/2016/07/IZs6mb60tEc0z534zMDoxOjBzMTu0hl.jpeg" width="100" /></a>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
