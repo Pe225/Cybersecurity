@@ -7,6 +7,8 @@
 
 Di recente mi sono appassionato alla sicurezza informatica 
 
+[CybersecurityRepo]: https://github.com/Pe225/Cybersecurity
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
@@ -24,6 +26,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | [Detection Lab][CybersecurityRepo/blob/main/Mitre%20Att%26Ck.md] |
+
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
