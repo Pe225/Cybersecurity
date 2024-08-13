@@ -27,9 +27,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-| Skill                                         | Associated Project         |
+| Project                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [CybersecurityRepo]/blob/main/Mitre%20Att%26Ck.md |
+| Mitre Att&CK          | <a href="[CybersecurityRepo]/blob/main/Mitre%20Att%26Ck.md"></a> |
 
 
 
