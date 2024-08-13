@@ -29,7 +29,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab][CybersecurityRepo/blob/main/Mitre%20Att%26Ck.md] |
+| SIEM Implementation and Log Analysis          | [CybersecurityRepo]/blob/main/Mitre%20Att%26Ck.md |
 
 
 
