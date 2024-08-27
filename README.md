@@ -43,6 +43,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Esempio installazione Wireguard          | <a href="https://docs.google.com/document/d/1mFjN1VzRyx2g_LTXX_MyErAB5PYlzLKi1qdjZykVquw/edit#heading=h.acl4ix5xv6wj">Link</a>|
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
