@@ -1,0 +1,44 @@
+<#
+.SYNOPSIS
+  Disables the built-in Guest account
+
+.NOTES
+    Author          : Giuseppe Prinzivalli
+    LinkedIn        : linkedin.com/in/giuseppe-prinzivalli-756690282
+    GitHub          : github.com/Pe225
+    Date Created    : 2025-03-26
+    Last Modified   : 2025-03-26
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN10-SO-000010
+
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
+
+.USAGE
+   How to Run the Script:
+     Go to the folder where you saved the file
+     Run the script with the command:
+     .\NameScript.ps1
+
+#>
+
+
+# Ottiene l'account "Guest"
+$guestAccount = Get-LocalUser -Name "Guest" -ErrorAction SilentlyContinue
+
+if ($guestAccount) {
+    if (-not $guestAccount.Enabled) {
+        Write-Output "Guest account is already disabled."
+    } else {
+        Disable-LocalUser -Name "Guest"
+        Write-Output "Guest account has been disabled."
+    }
+} else {
+    Write-Warning "Guest account not found. It may have been renamed or already removed."
+}
+
